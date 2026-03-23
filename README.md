@@ -1,4 +1,4 @@
-The dataset has track of 5000 peoples education and career related data it has 28 columns and 5000 rows.
+The dataset has track of 5000 people's education and career related data it has 28 columns and 5000 rows.
 
 I have applied basic preprocessing on the data (null value removal, converting catagorical values to numerical values, removing outliers, standerdization, normalization etc)
 
